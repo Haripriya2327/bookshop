@@ -18,10 +18,6 @@ npm run dev
 
 ## .env variables
 
-VITE_API_URL=http://localhost:5005
-VITE_CLOUDINARY_NAME=dopreefd1
-VITE_UNSIGNED_UPLOAD_PRESET=mku4mzoj
-BASE_URL=http://localhost:5005/api
 
 
 # link to demo
